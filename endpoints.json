@@ -1,0 +1,10 @@
+[
+  {
+    "name" : "CADHub",
+    "base_url" : "https://frozen-headland-13715.herokuapp.com/api/v1/"
+  },
+  {
+    "name" : "Bakery",
+    "base_url" : "https://cad-bakery.herokuapp.com/api/v1/"
+  }
+]
