@@ -1,7 +1,8 @@
 [
   {
     "name" : "CADHub",
-    "base_url" : "https://frozen-headland-13715.herokuapp.com/api/v1/"
+    "base_url" : "https://frozen-headland-13715.herokuapp.com/api/v1/",
+    "is_master" : true
   },
   {
     "name" : "Bakery",
